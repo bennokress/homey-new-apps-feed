@@ -6,15 +6,15 @@
     <description>New apps in the Homey App Store (according to the Community Thread)</description>
     <language>en</language>
     <generator>make.com</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 22:17:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 22:19:13 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/bennokress/homey-new-apps-feed/main/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
-        <title><![CDATA[]]></title>
-        <description><![CDATA[]]></description>
-        <link></link>
-        <pubDate></pubDate>
-        <guid isPermaLink="false"></guid>
-        <enclosure url="" type="image/png"/>
-      </item>
+      <title><![CDATA[]]></title>
+      <description><![CDATA[]]></description>
+      <link></link>
+      <pubDate></pubDate>
+      <guid isPermaLink="false"></guid>
+      <enclosure url="" type="image/png"/>
+    </item>
   </channel>
 </rss>
